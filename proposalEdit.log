@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.9)  29 MAR 2018 00:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.9)  30 MAR 2018 12:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -271,22 +271,219 @@ File: figure14.png Graphic file (type png)
 <use figure14.png>
 Package pdftex.def Info: figure14.png  used on input line 68.
 (pdftex.def)             Requested size: 457.62375pt x 263.51657pt.
- [4 <./figure14.png (PNG copy)>] (./proposalEdit.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+/home/jj/tex/proposalEdit/proposalEdit.tex:77: Misplaced alignment tab characte
+r &.
+l.77 ...102-using-a-shift-register-6b6976?ref=tag&
+                                                  ref\_id=display\&offset=80 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (17.23418pt too wide) in paragraph at lines 77--78
+[]\OT1/ptm/m/n/12 Arduino Project hub (web-site). Re-trieved from https://creat
+e.arduino.cc/projecthub/meljr/seven-segment-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+/home/jj/tex/proposalEdit/proposalEdit.tex:79: Misplaced alignment tab characte
+r &.
+l.79 ...nes/light-sequence-creator-f76d62?ref=tag&
+                                                  ref\_id=display&offset=65 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/home/jj/tex/proposalEdit/proposalEdit.tex:79: Misplaced alignment tab characte
+r &.
+l.79 ...ce-creator-f76d62?ref=tag&ref\_id=display&
+                                                  offset=65 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+
+Overfull \hbox (40.86285pt too wide) in paragraph at lines 83--84
+[]\OT1/ptm/m/n/12 BLS.gov (web-site). Re-trieved from https://www.bls.gov/ooh/c
+omputer-and-information-technology/software-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Overfull \hbox (36.74574pt too wide) in paragraph at lines 87--88
+[]\OT1/ptm/m/n/12 CollegeBoard (web-site). Re-trieved from https://research.col
+legeboard.org/programs/ap/data/participation/ap-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+[4 <./figure14.png (PNG copy)>]
+Overfull \hbox (2.9788pt too wide) in paragraph at lines 89--90
+[]\OT1/ptm/m/n/12 ENGR 301 (web-site). Re-trieved from https://wolfweb.unr.edu/
+ cbauer/engr301/material/handbook.pdf 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+
+Overfull \hbox (23.10269pt too wide) in paragraph at lines 91--92
+[]\OT1/ptm/m/n/12 Jameco (web-site). Re-trieved from https://www.jameco.com/z/7
+4LS240-Major-Brands-OCTAL-BUFFER-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+/home/jj/tex/proposalEdit/proposalEdit.tex:103: Misplaced alignment tab charact
+er &.
+l.103 ...ironment.San Rafael, California: Morgan &
+                                                   Claypool. 2010. \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+
+Overfull \hbox (16.0218pt too wide) in paragraph at lines 105--106
+[]\OT1/ptm/m/n/12 SparkFun (web-site). Re-trieved from https://learn.sparkfun.c
+om/tutorials/using-the-serial-seven-segment-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+/home/jj/tex/proposalEdit/proposalEdit.tex:107: Misplaced alignment tab charact
+er &.
+l.107 ...tion.Danvers, Massachusetts: John Wiley &
+                                                   Sons. 2014. \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+
+Overfull \hbox (11.81007pt too wide) in paragraph at lines 113--114
+[]\OT1/ptm/m/n/12 Washington Post (web-site). Re-trieved from https://www.washi
+ngtonpost.com/local/education/us-adults-
+ []
+
+[5] (./proposalEdit.aux) ) 
 Here is how much of TeX's memory you used:
- 3480 strings out of 492982
- 53267 string characters out of 6138580
+ 3481 strings out of 492982
+ 53285 string characters out of 6138580
  121678 words of memory out of 5000000
- 7015 multiletter control sequences out of 15000+600000
+ 7016 multiletter control sequences out of 15000+600000
  11986 words of font info for 25 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,39p,1246b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/f
-onts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.
-pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on proposalEdit.pdf (4 pages, 129019 bytes).
+ 41i,6n,39p,1332b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</
+usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fo
+nts/type1/urw/times/utmr8a.pfb>
+Output written on proposalEdit.pdf (5 pages, 132739 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
- 18 compressed objects within 1 object stream
+ 34 PDF objects out of 1000 (max. 8388607)
+ 20 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

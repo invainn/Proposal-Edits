@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1522308542 "/home/jj/tex/proposalEdit/proposalEdit.tex" "proposalEdit.pdf" "proposalEdit" 1522308542
-  "/home/jj/tex/proposalEdit/proposalEdit.tex" 1522308541 6242 1fe43a9fda94ee5c68814cc18887b4a0 ""
+["pdflatex"] 1522438827 "/home/jj/tex/proposalEdit/proposalEdit.tex" "proposalEdit.pdf" "proposalEdit" 1522438827
+  "/home/jj/tex/proposalEdit/proposalEdit.tex" 1522438827 8853 3774c0e30dfb63315e0d104bf2f7d1ca ""
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1520157250 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1520157216 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1520157222 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -50,9 +50,9 @@
   "figure1.png" 1522308143 56998 422bd677241b9aa63c040b9d46bfc30d ""
   "figure13.png" 1522308143 22725 bc7817e1edb4779a2cfdd3bc26750e79 ""
   "figure14.png" 1522308143 16946 bba6f4fd9e672b2bf4562e3193175c13 ""
-  "proposalEdit.aux" 1522308542 681 5f81bafc68b367d26697759df18ab8d8 ""
-  "proposalEdit.tex" 1522308541 6242 1fe43a9fda94ee5c68814cc18887b4a0 ""
+  "proposalEdit.aux" 1522438827 8 a94a2480d3289e625eea47cd1b285758 ""
+  "proposalEdit.tex" 1522438827 8853 3774c0e30dfb63315e0d104bf2f7d1ca ""
   (generated)
+  "proposalEdit.log"
   "proposalEdit.pdf"
   "proposalEdit.aux"
-  "proposalEdit.log"
